@@ -81,7 +81,6 @@ align-text@^0.1.1, align-text@^0.1.3:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/align-text/-/align-text-0.1.4.tgz#0cd90a561093f35d0a99256c22b7069433fad117"
   dependencies:
-    kind-of "^3.0.2"
     longest "^1.0.1"
     repeat-string "^1.5.2"
 
@@ -3164,7 +3163,7 @@ has-values@^1.0.0:
   resolved "https://registry.yarnpkg.com/has-values/-/has-values-1.0.0.tgz#95b0b63fec2146619a6fe57fe75628d5a39efe4f"
   dependencies:
     is-number "^3.0.0"
-    kind-of "^4.0.0"
+    
 
 has@^1.0.1:
   version "1.0.3"
@@ -3486,7 +3485,7 @@ is-accessor-descriptor@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-accessor-descriptor/-/is-accessor-descriptor-1.0.0.tgz#169c2f6d3df1f992618072365c9b0ea1f6878656"
   dependencies:
-    kind-of "^6.0.0"
+   
 
 is-arrayish@^0.2.1:
   version "0.2.1"
@@ -3522,7 +3521,7 @@ is-data-descriptor@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/is-data-descriptor/-/is-data-descriptor-0.1.4.tgz#0b5ee648388e2c860282e793f1856fec3f301b56"
   dependencies:
-    kind-of "^3.0.2"
+   
 
 is-data-descriptor@^1.0.0:
   version "1.0.0"
@@ -3630,14 +3629,12 @@ is-npm@^1.0.0:
 is-number@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-2.1.0.tgz#01fcbbb393463a548f2f466cce16dece49db908f"
-  dependencies:
-    kind-of "^3.0.2"
+  
 
 is-number@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-3.0.0.tgz#24fd6201a4782cf50561c810276afc7d12d71195"
-  dependencies:
-    kind-of "^3.0.2"
+  
 
 is-number@^4.0.0:
   version "4.0.0"
